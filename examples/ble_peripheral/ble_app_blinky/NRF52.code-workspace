@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\ble_app_alert_notification"
+		},
+		{
+			"path": "..\\ble_app_hrs"
+		},
+		{
+			"path": "..\\ble_app_template"
+		},
+		{
+			"path": "..\\..\\ble_central\\ble_thingy_client"
+		},
+		{
+			"path": "..\\..\\peripheral\\uart"
+		}
+	],
+	"settings": {}
+}
